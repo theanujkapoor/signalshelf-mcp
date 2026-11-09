@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.signalshelf/signalshelf",
+  "title": "SignalShelf",
+  "description": "Public social, ad library and Google Maps data: TikTok, Instagram, YouTube, X, Facebook and more.",
+  "version": "1.0.2",
+  "websiteUrl": "https://signalshelf.dev/docs/mcp",
+  "icons": [
+    {
+      "src": "https://signalshelf.dev/favicon.svg",
+      "mimeType": "image/svg+xml"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/theanujkapoor/signalshelf-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://signalshelf.dev/mcp",
+      "headers": [
+        {
+          "name": "x-api-key",
+          "description": "SignalShelf API key (dashboard → API keys; 1,000 free credits)",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
