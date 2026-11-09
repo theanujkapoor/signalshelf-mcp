@@ -9,6 +9,7 @@ A remote MCP server that gives your AI agent public social, ad library and Googl
 - **Free tier:** 1,000 credits. Get a key at [signalshelf.dev](https://signalshelf.dev)
 - **Docs:** [signalshelf.dev/docs/mcp](https://signalshelf.dev/docs/mcp)
 - **MCP Registry:** `dev.signalshelf/signalshelf`
+- **REST via RapidAPI:** [SignalShelf on RapidAPI](https://rapidapi.com/theanujkapoor/api/signalshelf-social-media-scraper-api) (subscribe and call with your RapidAPI key)
 
 This repo holds connection instructions, the registry `server.json` and examples. The server itself is hosted, so there's nothing to install.
 
