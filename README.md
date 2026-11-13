@@ -1,6 +1,7 @@
 # SignalShelf MCP
 
 [![mcptry](https://mcptry.com/badge/dev.signalshelf/signalshelf)](https://mcptry.com/servers/dev.signalshelf/signalshelf)
+[![M8ven Score](https://m8ven.ai/badge/mcp/theanujkapoor-signalshelf-mcp-pwev7c?v=a56b9fbe20467342b1bfd31b8475350a)](https://m8ven.ai/mcp/theanujkapoor-signalshelf-mcp-pwev7c?s=readme)
 
 A remote MCP server that gives your AI agent public social, ad library and Google Maps data: TikTok, Instagram, YouTube, X, Facebook, LinkedIn, Reddit, Threads, Pinterest, Google Search and Maps, reviews, app stores, Amazon and more. It covers about 250 operations.
 
